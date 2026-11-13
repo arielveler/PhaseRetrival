@@ -35,7 +35,7 @@ r = sqrt(x.^2 + y.^2);
 %     end
 % end
 %% Read 100 HG patterns
-Psi = load('C:\Users\arielv\Desktop\תואר שני\Speckle-fibers\pulseLaser\100_HG_modes.mat').Psi;
+Psi = load('100_HG_modes.mat').Psi;
 n = 10; %how many modes to use
 %% Normalize the modes patterns with L2 norm
 PsiNorm = Psi;

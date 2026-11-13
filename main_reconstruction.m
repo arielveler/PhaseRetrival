@@ -1,3 +1,4 @@
+addpath(genpath(pwd))
 %% Show mixing of image and phase
 I1 = imread('cameraman.tif');
 I2 = imread('trees.tif');
