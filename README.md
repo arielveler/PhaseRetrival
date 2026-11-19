@@ -12,11 +12,11 @@ This project, developed during my M.Sc. research at the **Technion** in **Prof. 
 
 The algorithmic idea evolves through a few key steps:
 
-**1. Phase retrieval / CDI** (recover lost optical phase) → 
-**2. Ptychography / ePIE** (exploit overlapping measurements to recover object and illumination) → 
-**3. Single-Shot Ptychography** (capture all measurements at once) → 
-**4. Ptychographic Information Multiplexing / MsPA** (separate mixed optical states) → 
-**5. TIMP** (combining all by reconstructing mixed optical states along with objects at different moments in time).
+**1. Phase retrieval / CDI** (recover lost optical phase) →  
+**2. Ptychography / ePIE** (exploit overlapping measurements to recover object and illumination) →  
+**3. Single-Shot Ptychography** (capture all measurements at once) →  
+**4. Ptychographic Information Multiplexing / MsPA** (separate mixed optical states) →  
+**5. TIMP** (combining all by reconstructing mixed optical states along with objects at different moments in time).  
 
 The trick is that **temporal information is encoded optically, then separated computationally**—instead of relying on the camera to record each frame individually.
 
